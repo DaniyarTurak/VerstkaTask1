@@ -60,6 +60,56 @@ $utilities: (
             'xl': $font-size-xl,
             'xxl': $font-size-xxl
         )
+    ),
+    'padding': (
+        'prefix': 'p',
+        'values': (
+            '1': $base-padding,
+            '2': $base-padding * 2,
+            '3': $base-padding * 3,
+            '4': $base-padding * 4,
+            '5': $base-padding * 5,
+        )
+    ),
+    'padding-left': (
+        'prefix': 'pl',
+        'values': (
+            '1': $base-padding,
+            '2': $base-padding * 2,
+            '3': $base-padding * 3,
+            '4': $base-padding * 4,
+            '5': $base-padding * 5,
+        )
+    ),
+    'padding-right': (
+        'prefix': 'pr',
+        'values': (
+            '1': $base-padding,
+            '2': $base-padding * 2,
+            '3': $base-padding * 3,
+            '4': $base-padding * 4,
+            '5': $base-padding * 5,
+        )
+    ),
+    'padding-top': (
+        'prefix': 'pt',
+        'values': (
+            '1': $base-padding,
+            '2': $base-padding * 2,
+            '3': $base-padding * 3,
+            '4': $base-padding * 4,
+            '5': $base-padding * 5,
+        )
+    ),
+    'padding-bottom': (
+        'prefix': 'pb',
+        'values': (
+            '1': $base-padding,
+            '2': $base-padding * 2,
+            '3': $base-padding * 3,
+            '4': $base-padding * 4,
+            '5': $base-padding * 5,
+        )
     )
 );
 
